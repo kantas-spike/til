@@ -1,0 +1,6 @@
+baseURL = 'https://kantas-spike.github.io/til/'
+languageCode = 'ja'
+title = 'TIL'
+theme = 'til'
+
+publishDir = 'docs'
